@@ -7,3 +7,4 @@
 5. [Математика для Data Science](https://github.com/OshchepkovSA/Netology/tree/master/math_ds)
 6. [Big Data с нуля](https://github.com/OshchepkovSA/Netology/tree/master/big_data)
 7. [Машинное обучение](https://github.com/OshchepkovSA/Netology/tree/master/ML)
+8. [Нейронные сети](https://github.com/OshchepkovSA/Netology/tree/master/NN)
