@@ -8,3 +8,5 @@
 6. [Big Data с нуля](https://github.com/OshchepkovSA/Netology/tree/master/big_data)
 7. [Машинное обучение](https://github.com/OshchepkovSA/Netology/tree/master/ML)
 8. [Нейронные сети](https://github.com/OshchepkovSA/Netology/tree/master/NN)
+9. [Компьютерное зрение](https://github.com/OshchepkovSA/Netology/tree/master/NN_CV)
+10. [Рекомендательные системы](https://github.com/OshchepkovSA/Netology/tree/master/recommend_system)
