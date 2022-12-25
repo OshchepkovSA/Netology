@@ -10,3 +10,6 @@
 8. [Нейронные сети](https://github.com/OshchepkovSA/Netology/tree/master/NN)
 9. [Компьютерное зрение](https://github.com/OshchepkovSA/Netology/tree/master/NN_CV)
 10. [Рекомендательные системы](https://github.com/OshchepkovSA/Netology/tree/master/recommend_system)
+11. [Обработка естественного языка](https://github.com/OshchepkovSA/Netology/tree/master/nlp)
+12. [Временные ряды](https://github.com/OshchepkovSA/Netology/tree/master/time_series)
+13. [Менеджмент дата-проектов](https://github.com/OshchepkovSA/Netology/tree/master/ds_managment)
